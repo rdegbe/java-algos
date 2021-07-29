@@ -5,6 +5,7 @@
  * (such as strings or objects) first map all your keys to the integer domain [0, N) where N is the
  * number of keys you have and then use the mapping with this indexed priority queue.
  *
+ *
  * <p>As convention, I denote 'ki' as the index value in the domain [0, N) associated with a key k,
  * therefore: ki = map[k]
  *

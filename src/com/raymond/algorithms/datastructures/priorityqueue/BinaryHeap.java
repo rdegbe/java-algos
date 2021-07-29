@@ -2,6 +2,7 @@
  * A min priority queue implementation using a binary heap.
  * Inspired by the work of William Fiset
  *
+ *
  * @author Raymond Degbe, raymond,degbe.05@gmail.com
  */
 package com.raymond.algorithms.datastructures.priorityqueue;
