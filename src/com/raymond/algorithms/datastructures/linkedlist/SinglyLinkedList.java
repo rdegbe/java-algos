@@ -18,10 +18,7 @@ public class SinglyLinkedList{
         }
     }
     private int size = 0;
-    private Node head;
-    private Node tail;
-    private Node tbr;
-    private Node trav;
+    private Node head, tail, tbr, trav;
 
 
     // Add function adds node at the tail of the linked list by default, O(1)
