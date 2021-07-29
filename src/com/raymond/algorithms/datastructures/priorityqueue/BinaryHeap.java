@@ -3,7 +3,7 @@
  * Inspired by the work of William Fiset
  *
  *
- * @author Raymond Degbe, raymond,degbe.05@gmail.com
+ * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
 package com.raymond.algorithms.datastructures.priorityqueue;
 

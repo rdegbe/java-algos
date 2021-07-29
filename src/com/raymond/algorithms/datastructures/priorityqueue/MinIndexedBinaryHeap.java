@@ -9,7 +9,7 @@
  * <p>As convention, I denote 'ki' as the index value in the domain [0, N) associated with key k,
  * therefore: ki = map[k]
  *
- * @author Raymond Degbe, raymond,degbe.05@gmail.com
+ * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
 package com.raymond.algorithms.datastructures.priorityqueue;
 

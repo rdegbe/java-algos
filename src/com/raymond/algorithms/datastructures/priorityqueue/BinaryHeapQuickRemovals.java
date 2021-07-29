@@ -3,7 +3,7 @@
  * inside the binary heap with a hashtable for quick removals.
  *
  *
- * @author Raymond Degbe, raymond,degbe.05@gmail.com
+ * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
 package com.raymond.algorithms.datastructures.priorityqueue;
 
