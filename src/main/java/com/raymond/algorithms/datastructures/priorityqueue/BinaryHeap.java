@@ -5,7 +5,7 @@
  *
  * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
-package com.raymond.algorithms.datastructures.priorityqueue;
+package main.java.com.raymond.algorithms.datastructures.priorityqueue;
 
 import java.util.*;
 

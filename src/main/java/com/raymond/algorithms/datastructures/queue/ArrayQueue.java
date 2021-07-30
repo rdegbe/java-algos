@@ -1,4 +1,4 @@
-package com.raymond.algorithms.datastructures.queue;
+package main.java.com.raymond.algorithms.datastructures.queue;
 
 /**
  * Besides the Generics, the loss of property of size is another difference between ArrayQueue and

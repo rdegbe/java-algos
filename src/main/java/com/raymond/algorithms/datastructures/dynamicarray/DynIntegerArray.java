@@ -4,7 +4,7 @@
  * Functions: size, add, removeAt, etc
  * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
-package com.raymond.algorithms.datastructures.dynamicarray;
+package main.java.com.raymond.algorithms.datastructures.dynamicarray;
 
 public class DynIntegerArray implements Iterable<Integer> {
 

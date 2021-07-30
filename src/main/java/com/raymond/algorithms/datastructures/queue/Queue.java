@@ -1,4 +1,4 @@
-package com.raymond.algorithms.datastructures.queue;
+package main.java.com.raymond.algorithms.datastructures.queue;
 
 /**
  * @author Raymond Degbe, raymond.degbe.05@gmail.com

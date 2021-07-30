@@ -3,7 +3,7 @@
  *
  * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
-package com.raymond.algorithms.datastructures.linkedlist;
+package main.java.com.raymond.algorithms.datastructures.linkedlist;
 
 public class DoublyLinkedList<T> implements Iterable<T> {
   private int size = 0;

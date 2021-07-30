@@ -5,7 +5,7 @@
  *
  * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
-package com.raymond.algorithms.datastructures.stack;
+package main.java.com.raymond.algorithms.datastructures.stack;
 import java.util.*;
 
 public class ListStack<T> implements Iterable<T>, Stack<T> {

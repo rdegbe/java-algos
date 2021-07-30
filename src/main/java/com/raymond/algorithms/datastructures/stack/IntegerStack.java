@@ -7,7 +7,7 @@
  *
  * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
-package com.raymond.algorithms.datastructures.stack;
+package main.java.com.raymond.algorithms.datastructures.stack;
 
 public class IntegerStack implements Stack<Integer> {
 

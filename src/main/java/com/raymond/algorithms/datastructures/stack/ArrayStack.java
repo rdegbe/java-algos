@@ -2,7 +2,7 @@
  * Stack Implemented using Array
  */
 
-package com.raymond.algorithms.datastructures.stack;
+package main.java.com.raymond.algorithms.datastructures.stack;
 import java.util.Arrays;
 import java.util.EmptyStackException;
 

@@ -3,7 +3,7 @@
  *
  * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
-package com.raymond.algorithms.datastructures.queue;
+package main.java.com.raymond.algorithms.datastructures.queue;
 import java.util.LinkedList;
 
 public class LinkedQueue<T> implements Iterable<T>, Queue<T> {

@@ -4,7 +4,7 @@
  * FUNCTIONS: size, get, set, add, removeAt, remove, indexOf, contains
  * @author Raymond Degbe, raymond.degbe.05@gmail.com
  */
-package com.raymond.algorithms.datastructures.dynamicarray;
+package main.java.com.raymond.algorithms.datastructures.dynamicarray;
 
 @SuppressWarnings("unchecked")
 public class DynGenericArray<T> implements Iterable<T> {

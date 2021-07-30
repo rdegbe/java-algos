@@ -1,4 +1,4 @@
-package com.raymond.algorithms.datastructures.stack;
+package main.java.com.raymond.algorithms.datastructures.stack;
 
 public interface Stack<T> {
   // return the number of elements in the stack
