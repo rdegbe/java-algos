@@ -67,8 +67,6 @@ $ javac -d classes -sourcepath src/main/java src/main/java/com/raymond/algorithm
 $ java -cp classes com.raymond.algorithms.search.BinarySearch
 ```
 
-# Data Structures
-
 # License
 
 This repository is released under the [MIT license](https://opensource.org/licenses/MIT). In short, this means you are free to use this software in any personal, open-source or commercial projects. Attribution is optional but appreciated.
