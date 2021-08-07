@@ -43,26 +43,26 @@ or
 
 ### Create a classes folder
 
-```
+```bash
 cd algo-compilation
 mkdir classes
 ```
 
 ### Compile the algorithm
 
-```
+```java
 javac -sourcepath src/main/java -d classes src/main/java/ <relative-path-to-java-source-file>
 ```
 
 ### Run the algorithm
 
-```
+```java
 java -cp classes <class-fully-qualified-name>
 ```
 
 ### Example
 
-```
+```java
 $ javac -d classes -sourcepath src/main/java src/main/java/com/raymond/algorithms/search/BinarySearch.java
 $ java -cp classes com.raymond.algorithms.search.BinarySearch
 ```
